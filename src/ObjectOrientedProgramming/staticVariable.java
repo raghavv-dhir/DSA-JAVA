@@ -34,6 +34,7 @@ class Employee {
     }
 
     void display(){
+
         System.out.println(empId+", "+name+", "+company);
     }
 }
@@ -45,6 +46,7 @@ class Counter{
 
     //Constructor
     Counter(){
+
         count++;
     }
 }
