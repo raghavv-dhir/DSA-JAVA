@@ -39,7 +39,7 @@ public class IntersectionOfTwoLinkedLists160 {
         tempB = headB;
 
         // Align the starting points of both lists
-        if (lengthA > lengthB) { //Whichever list is longer, initialize it first by (difference) steps to handle the different lengths and starts from equality.
+        if (lengthA > lengthB) { //Whichever list is longer, initialize it first by (difference) steps to handle the different lengths and start from equality.
             int steps = lengthA - lengthB;
             for (int i = 0; i < steps; i++) {
                 tempA = tempA.next;
