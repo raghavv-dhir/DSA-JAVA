@@ -7,7 +7,7 @@ Welcome to the **Java and DSA** repository! This repository contains well-struct
 ## ✨ Features
 
 - **📂 Comprehensive DSA Implementation:**
-    - 📊 Arrays, Linked Lists, Stacks, Queues
+    - 📊 Arrays, Linked Lists, StacksAndQueues, Queues
     - 🌲 Trees, Graphs, Hashing
     - 🔍 Sorting and Searching Algorithms
     - 🧠 Dynamic Programming, Backtracking, and more
